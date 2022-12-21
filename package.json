@@ -1,0 +1,22 @@
+{
+  "name": "dec-21-lesson",
+  "version": "1.0.0",
+  "description": "Passport.js Auth login page",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Passport.js",
+    "express",
+    "pug",
+    "backend",
+    "Auth"
+  ],
+  "author": "Cole Nelson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
